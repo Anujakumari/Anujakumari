@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuja</h1>
+#  Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuja !!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
