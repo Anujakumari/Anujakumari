@@ -1,5 +1,9 @@
 #  Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuja !!
 
+<div align = "center">
+ <img width="50%" height="50%" src="intro.gif" alt="">
+</div>
+
 ### About Me 🚀 <br />
 🎓 I'm currently a junior pursuing my Bachelors in Computer Science & Engineering. <br />
 
