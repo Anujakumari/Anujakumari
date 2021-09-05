@@ -28,3 +28,5 @@
 ## 📈 Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujakumari&hide=issues&show_icons=true&theme=highcontrast" alt="anujakumari" /></p>
+
+<b><marquee style="color:navyblue; margin:10px; font-size:25px;"> <h1> Thanks for visiting me </h1></marquee><b>
