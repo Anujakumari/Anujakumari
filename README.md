@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/anuja6204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anuja6204" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuja-kumari-4a62581aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anuja-kumari-4a62581aa" height="30" width="40" /></a>
-<a href="https://medium.com/@anuja_kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anuja-kumari.medium.com" height="30" width="40" /></a>
+<a href="https://medium.com/@anuja_kumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anuja-kumari" height="30" width="40" /></a>
 </p>
 
 
